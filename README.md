@@ -1,5 +1,4 @@
 # Web_Task_3
-# My Task 3
 
 This is small web page in which I used different types of selectors and techniques.
 
