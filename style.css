@@ -1,0 +1,54 @@
+body {
+  background-color: #ed901d;
+}
+
+.head {
+  color: #1f3c88;
+}
+
+#bglime {
+  background-color: lime;
+}
+.head span {
+  color: red;
+}
+
+p {
+  color: white;
+
+}
+
+#para {
+  color: green;
+}
+p span {
+  color: black;
+}
+
+ul li:nth-child(1) a {
+  background-color: royalblue;
+}
+ul li:nth-child(2) a {
+  background-color: green;
+}
+
+
+ol {
+  margin: 20px 0 20px 25px;
+  padding-left: 20px;
+  line-height: 1.8;
+  color: #222;
+}
+
+ol li:nth-child(2) {
+  color: blue;
+}
+
+ol li:nth-child(3) {
+  color: green;
+}
+
+li strong {
+  background-color: lime;
+  color: #000;
+}
